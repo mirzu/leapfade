@@ -1,0 +1,1 @@
+A quick demo built at [Nodebots Austin 2014](http://austinnodebots.com/) that takes your hand position from a [leap motion](https://www.leapmotion.com/) and moves a red LED along a [NeoPixel Strip](http://www.adafruit.com/category/168), Driven with a [FadeCandy](http://www.adafruit.com/products/1689). Nothing more than a quick demo, but hopefully the start of something awesome.
